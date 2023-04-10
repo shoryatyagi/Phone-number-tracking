@@ -27,7 +27,7 @@ python main.py
 ## 💡 Usage
 
 1. Enter the phone number you want to track in the input field.
-2. Click on the "Track" button to fetch and display the information about the phone number.
+2. Click on the "Enter" button to fetch and display the information about the phone number.
 3. The app will display the country, location, timezone, ISP, and other details about the phone number.
 4. The app also displays the location of the phone number on the map.
 
